@@ -1,0 +1,48 @@
+body {
+	background-color: #E6AC00;
+	color: black;
+}   
+
+a, a:visited {
+	color: #663300;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	font-size: 14px;
+}
+
+img {
+	width: 300px;
+	margin-left: 10px;
+	border: 3px #663300 solid;
+	vertical-align: top;
+}
+
+td { 
+	vertical-align: top;
+}
+
+
+#tartalom {
+	width: 70%;
+	background-color: #f5ce5a;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	padding: 20px;
+}
+
+#tablazat {
+	background-color: #f5ce5a;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 90%;
+	table-layout: fixed;
+	font-size: 18px;
+}
+

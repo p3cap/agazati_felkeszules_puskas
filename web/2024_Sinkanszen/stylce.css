@@ -1,0 +1,82 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url("hatter.jpg");
+}
+a{
+	color: #453C6E;
+}
+a:visited {
+	color: #CC0000;
+}
+
+#fejlec {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#fejlec_text {
+	color: #CC0000;
+	background-image: url(fejlec.jpg);
+	height: 400px;
+	padding: 10px;
+}
+
+#tartalom {
+	background-color: white;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px #453C6E solid;
+	padding: 10px;
+}
+
+#nav_p {
+	text-align: center;
+}
+
+#forras {
+	text-align: center;
+}
+#kep {
+	padding-left: 5px;
+}
+#ter_kep {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+table {
+	border: 2px #453C6E solid;
+	border-collapse:collapse;
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #453C6E;
+}
+
+p {
+	text-align: justify;
+}
+
+thead th {
+	background-color: #453C6E;
+	color: white;
+}
+
+tbody {
+	text-align: center;
+}
+tbody td, th {
+	border: 2px #453C6E solid;
+}
+tbody th {
+	text-align: left;
+}
+.jobb {
+	text-align: right;
+}

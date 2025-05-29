@@ -1,0 +1,78 @@
+body {
+	background-image: url(hatter.jpg);
+	font-family: Arial, sans-serif;
+}
+
+a:visited {
+	color: #cc0000;
+}
+
+a {
+	color: #453c6e;
+}
+
+h1 {
+	color: #453C6E;
+}
+
+nav {
+	text-align: center;
+}
+
+#cim {
+	color: #cc0000;
+	background-image: url(fejlec.jpg);
+	height: 400px;
+	padding: 10px;
+}
+
+#keret {
+	width: 900px;
+	border: 3px #453C6E;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	padding: 10px;
+}
+
+h2 {
+	color: #453C6E;
+}
+#vonalak_tabla  {
+	border-collapse: collapse;
+	border: 2px solid #453C6E;
+	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#vonalak_tabla td {
+	border: 2px solid #453C6E;
+}
+#vonalak_tabla th {
+	border: 2px solid #453C6E;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+thead {
+	color: white;
+	background-color: #453C6E;
+}
+
+#terkep {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+footer {
+	text-align: center;
+	padding: 10px;
+}
